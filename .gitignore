@@ -176,3 +176,5 @@ cython_debug/
 token.txt
 
 /data
+/.microns
+/.venv

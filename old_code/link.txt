@@ -1,0 +1,7 @@
+https://tutorial.microns-explorer.org/quickstart_notebooks/01-caveclient-setup.html
+https://www.microns-explorer.org/cortical-mm3#f-data
+
+sudo docker ps
+sudo docker stop ee5c8acafc88
+
+sudo docker-compose up -d notebook
